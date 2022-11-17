@@ -3,7 +3,20 @@
     padding: 0;
 }
 .sctn{
-    background: url(pic7.jpg);
-    height: 100%;
-    width: 100%;
+    background: url(pic7-min.jpg);
+    height: 100vh;
+    block-size: cover;
+    background-position:center;
+    /* background-repeat: no-repeat; */
+    
+}
+.nv{
+    background-color: #00000066;
+}
+.cntr{
+   justify-content: center;
+    padding-bottom: 400px;
+   
+    color: white;
+    position: relative;
 }
