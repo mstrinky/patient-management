@@ -21,3 +21,29 @@ nav{
     font-weight: 100;
     font-size: 32px;
 }
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    background-size:cover;
+}
+.carousel-caption{
+    bottom: 600px;
+    padding-bottom: 100px;
+}
+.carousel-caption h5{
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-family:'Times New Roman', Times, serif;
+   color: rgb(32, 71, 71);
+}
+.clr{
+    background-color: #d84315;;
+}
+
+.bn{
+margin-bottom: 200px;
+border: none;
+border: 2px solid lightblue;
+}
