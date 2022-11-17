@@ -1,22 +1,23 @@
 *{
-    margin: 0;
     padding: 0;
+    margin: 0;
 }
-.sctn{
-    background: url(pic7-min.jpg);
-    height: 100vh;
-    block-size: cover;
-    background-position:center;
-    /* background-repeat: no-repeat; */
-    
+.login{
+    border: none;
+    background-color: none;
+    background-color: transparent;
+    color: #343a40 ;
 }
-.nv{
-    background-color: #00000066;
+.carousel-item{
+    background: no-repeat center center scroll;
+    background-size: cover;
 }
-.cntr{
-   justify-content: center;
-    padding-bottom: 400px;
-   
-    color: white;
-    position: relative;
+nav{
+    background: transparent;
+    background-color:#212529;
+}
+.fmly{
+    font-family:'Mukta', sans-serif;
+    font-weight: 100;
+    font-size: 32px;
 }
