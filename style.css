@@ -84,6 +84,6 @@ border: 2px solid lightblue;
 .img4{
     background: url(cabin.jpg) fixed;
     background-size: cover;
-    height: 100vh;
+    height: 45vh;
     background-repeat: no-repeat;
 }
