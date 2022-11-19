@@ -81,3 +81,9 @@ border: 2px solid lightblue;
     line-height: 1.9;
 
 }
+.img4{
+    background: url(cabin.jpg) fixed;
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
