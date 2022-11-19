@@ -48,20 +48,36 @@ border: none;
 border: 2px solid lightblue;
 }
 .img1{
-    background: url(pic9.jpg);
-    color:black;
+    background: url(pic2.jpg);
+    color:white;
     background-repeat: no-repeat;
-    height: 295px;
+    /* height: 295px; */
+    background-size: cover;
 }
 .img2{
-    background: url(pic.jpg);
+    background: url(pic1.jpg);
     background-repeat: no-repeat;
-    color: black;
-    background-position: center;
-    height: 295px;
-    
+    color:white;
+    background-position:center;
+    /* height: 100%; */
+    /* width: 100%; */
+    background-size: cover;
+    /* position: relative; */
 }
 .img3{
-    height: 295px;
+    /* height: 295px; */
     background-color: #007bff;
+   color: white;
+}
+.read{
+    border: none;
+    background-color: #2196f3;
+}
+.card-text {
+    color:#999;
+    font-family: 'Quicksand', sans-serif;
+    letter-spacing: 1px;
+    font-size: 15px;
+    line-height: 1.9;
+
 }
