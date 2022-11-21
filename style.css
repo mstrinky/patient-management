@@ -107,3 +107,16 @@ border: 2px solid lightblue;
 .gap2{
     gap: 172px;
 }
+.rm{
+    border: none;
+    color: #2196f3;
+    background-color:transparent;
+}
+.img5{
+    background: fixed url(heart.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    color: white;
+   font-weight:500;
+}
