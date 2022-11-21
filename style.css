@@ -120,3 +120,15 @@ border: 2px solid lightblue;
     color: white;
    font-weight:500;
 }
+.big{
+    
+    color:white;
+    font-size: 2rem;
+    
+}
+
+.img6{
+    background: fixed url(nature.jpg);
+    color: white;
+    height: 50vh;
+}
