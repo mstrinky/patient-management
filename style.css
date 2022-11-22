@@ -85,10 +85,15 @@ border: 2px solid lightblue;
 
 }
 .img4{
-    background: url(cabin.jpg) fixed;
+    /* background: url(cabin.jpg) fixed; */
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(cabin.jpg) fixed;
     background-size: cover;
     height: 45vh;
     background-repeat: no-repeat;
+    color: white;
+}
+.gray{
+    color: gray;
 }
 .icon{
     font-size: 2.5rem;
@@ -113,7 +118,8 @@ border: 2px solid lightblue;
     background-color:transparent;
 }
 .img5{
-    background: fixed url(heart.png);
+    /* background: fixed url(heart.png); */
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(heart.png) fixed;
     background-repeat: no-repeat;
     background-size: cover;
     height: 70vh;
@@ -122,8 +128,23 @@ border: 2px solid lightblue;
  }
 
 .img6{
-    background: fixed url(cabin.jpg);
+    /* background: fixed url(cabin.jpg); */
     color: white;
     height: 50vh;
-   
+    background-repeat: no-repeat;
+    background-size: cover;
+   background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(cabin.jpg) fixed;
+}
+.big{
+    font-size: 3.5rem;
+    padding-right: 30px;
+}
+.subscribe{
+    color: white;
+    border: none;
+    background-color: #d84315;
+    padding-left: 33px;
+    padding-right: 33px;
+    padding-top: 17px;
+    padding-bottom: 17px;
 }
