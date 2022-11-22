@@ -119,16 +119,11 @@ border: 2px solid lightblue;
     height: 70vh;
     color: white;
    font-weight:500;
-}
-.big{
-    
-    color:white;
-    font-size: 2rem;
-    
-}
+ }
 
 .img6{
-    background: fixed url(nature.jpg);
+    background: fixed url(cabin.jpg);
     color: white;
     height: 50vh;
+   
 }
